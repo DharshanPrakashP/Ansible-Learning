@@ -1,4 +1,4 @@
-# 🚀 FastAPI Deployment with Ansible — Day 1
+# 🚀 Working with Ansible - FastAPI Deployment with Ansible — Day 1
 
 
 This repository documents the Day 1 progress of automating a FastAPI application deployment using **Ansible** on a local machine via **WSL (Ubuntu 24.04)**.
