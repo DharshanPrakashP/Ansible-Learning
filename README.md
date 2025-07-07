@@ -75,7 +75,7 @@ ansible-playbook -i inventory.ini fastapi-deploy.yml --ask-become-pass
 
 Once the playbook completes, check if the server is live:
 ```
-curl <http://127.0.0.1:8000>
+curl http://127.0.0.1:8000
 ```
 
 You should see:
