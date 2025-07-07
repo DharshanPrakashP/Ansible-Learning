@@ -1,5 +1,5 @@
 # 🚀 Working with Ansible - FastAPI Deployment with Ansible — Day 1
-
+[![My Skills](https://skillicons.dev/icons?i=ansible,linux,py&theme=dark)](https://skillicons.dev)
 
 
 This repository documents the Day 1 progress of automating a FastAPI application deployment using **Ansible** on a local machine via **WSL (Ubuntu 24.04)**.
